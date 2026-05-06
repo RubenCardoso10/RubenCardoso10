@@ -1,32 +1,32 @@
-<!-- Perfil GitHub — Rúben Cardoso -->
-<!-- Cria um repositório chamado RubenCardoso10/RubenCardoso10 e cola este ficheiro -->
+<!-- GitHub Profile — Rúben Cardoso -->
+<!-- Repository name must be: RubenCardoso10 -->
 
 <div align="center">
 
-# Olá, sou o Rúben Cardoso 👋
+# Hi, I'm Rúben Cardoso 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&pause=1000&color=185FA5&center=true&width=520&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+React+Native;Firebase+%7C+Node.js+%7C+Laravel;AI+Prompt+Engineer;Guimar%C3%A3es%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=RubenCardoso10&color=185FA5&style=flat&label=visitas+ao+perfil)
+![Profile views](https://komarev.com/ghpvc/?username=RubenCardoso10&color=185FA5&style=flat&label=profile+views)
 
 </div>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 About me
 
-- 🔭 A trabalhar com **TypeScript**, **React Native** e **Node.js**
-- 📱 Desenvolvimento mobile com **Expo** e **React Native**
-- 🔥 Backend e base de dados com **Firebase** e **Laravel (PHP)**
-- 🤖 Engenharia de prompts de **Inteligência Artificial**
-- 🛠 Também em **Python**, **C#** e **C++**
-- 📍 Baseado em **Guimarães, Portugal**
+- 🔭 Currently working with **TypeScript**, **React Native** and **Node.js**
+- 📱 Mobile development with **Expo** and **React Native**
+- 🔥 Backend & database with **Firebase** and **Laravel (PHP)**
+- 🤖 **AI Prompt Engineering** enthusiast
+- 🛠 Also experienced in **Python**, **C#** and **C++**
+- 📍 Based in **Guimarães, Portugal**
 
 ---
 
-### 🛠 Stack & Ferramentas
+### 🛠 Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-BA7517?style=flat&logo=javascript&logoColor=white)
@@ -48,14 +48,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RubenCardoso10&show_icons=true&hide_border=true&title_color=185FA5&icon_color=0F6E56&text_color=444441&bg_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCardoso10&layout=compact&hide_border=true&title_color=185FA5&text_color=444441&bg_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RubenCardoso10&show_icons=true&hide_border=true&title_color=185FA5&icon_color=0F6E56&text_color=444441&bg_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RubenCardoso10&layout=compact&hide_border=true&title_color=185FA5&text_color=444441&bg_color=ffffff" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 🔥 Streak de Contribuições
+### 🔥 Contribution Streak
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 📈 Gráfico de Atividade
+### 📈 Activity Graph
 
 <div align="center">
 
